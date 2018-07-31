@@ -1,0 +1,22 @@
+{
+  "name": "mvc-framework",
+  "version": "1.0.0",
+  "description": "https://www.safaribooksonline.com/library/view/learning-typescript/9781783985548/ch09s05.html",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QDaBin/MVC-framework.git"
+  },
+  "author": "QiuDB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QDaBin/MVC-framework/issues"
+  },
+  "homepage": "https://github.com/QDaBin/MVC-framework#readme",
+  "dependencies": {
+    "animate.css": "^3.7.0"
+  }
+}
